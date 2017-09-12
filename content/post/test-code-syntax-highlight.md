@@ -5,7 +5,7 @@ tags:
   - hugo
   - syntax highlighting
   - prism.js
-title: "Test-Code-Syntax-Highlight"
+title: "Testing beautiful code syntax highlighting"
 slug: "Test syntax highlight"
 date: "2017-09-12T22:50:59+07:00"
 draft: false
