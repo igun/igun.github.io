@@ -1,3 +1,70 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://igun.github.io"
+title = "Sesat Timur"
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+Paginate = 5
+
+preserveTaxonomyNames = true
+
+[params]
+  description = "Pengembara di jagat maya"
+  dateFormat = "2006, Jan 2"
+  copyrightOwner = "MunifTanjim"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+  hideSocialMenu = false
+  showReadTime = true
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Minimo"
+
+[author.social]
+  codepen = ""
+  email = "gunawan.ep@gmail.com"
+  facebook = ""
+  github = "igun"
+  instagram = ""
+  twitter = "igun"
+  linkedin = ""
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = -70
+  identifier = "igun"
+  url = "https://igun.github.io"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
