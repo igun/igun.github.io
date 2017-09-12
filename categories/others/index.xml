@@ -5,10 +5,23 @@
     <link>https://igun.github.io/categories/others/</link>
     <description>Recent content in Others on Sesat Timur</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Sep 2017 22:05:28 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 22:50:59 +0700</lastBuildDate>
     
 	<atom:link href="https://igun.github.io/categories/others/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test-Code-Syntax-Highlight</title>
+      <link>https://igun.github.io/post/test-syntax-highlight/</link>
+      <pubDate>Tue, 12 Sep 2017 22:50:59 +0700</pubDate>
+      
+      <guid>https://igun.github.io/post/test-syntax-highlight/</guid>
+      <description>Percobaan Syntax Highlighting Saya mencoba mengikuti tutorial untuk syntax highlighting menggunakan prim.js. Langsung saja kita tampilkan hasilnya adalah sebagai berikut:
+Ini code untuk CSS
+ body { font-family: &#34;Noto Sans&#34;, sans-serif; }   Ini code untuk Python
+  from pygments.styles import get_all_styles  styles = list(get_all_styles())  print styles   Sekarang adalah code untuk MySQL yang belum ada di daftar prism saya:
+ CREATE DATABASE testing; USE testing; CREATE TABLE coba ( id int, nama varchar(255) ); SELECT * from coba;   Apakah berhasil?</description>
+    </item>
     
     <item>
       <title>Welcome to my new website</title>
