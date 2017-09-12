@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
 [params]
   description = "Pengembara di jagat maya"
   dateFormat = "2006, Jan 2"
-  copyrightOwner = "MunifTanjim"
+  copyrightOwner = "Gunawan Prasetia"
   copyrightStartYear = "2017"
   favicon = "favicon.ico"
   hideEntryNavigation = false
@@ -39,7 +39,7 @@ preserveTaxonomyNames = true
   facebook = ""
 
 [author]
-  name = "Minimo"
+  name = "igun"
 
 [author.social]
   codepen = ""
