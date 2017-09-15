@@ -44,11 +44,11 @@ preserveTaxonomyNames = true
 [author.social]
   codepen = ""
   email = "gunawan.ep@gmail.com"
-  facebook = ""
+  facebook = "gunawan.prasetia"
   github = "igun"
   instagram = ""
   twitter = "igun"
-  linkedin = ""
+  linkedin = "gunawanprasetia"
 
 [permalinks]
   page = "/:slug/"
