@@ -5,10 +5,21 @@
     <link>https://igun.github.io/</link>
     <description>Recent content on Sesat Timur</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Sep 2017 22:50:59 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2017 06:13:48 +0700</lastBuildDate>
     
 	<atom:link href="https://igun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Setup ifconfig pada centos 7</title>
+      <link>https://igun.github.io/post/centos-7-ifconfig/</link>
+      <pubDate>Thu, 28 Dec 2017 06:13:48 +0700</pubDate>
+      
+      <guid>https://igun.github.io/post/centos-7-ifconfig/</guid>
+      <description>Untuk melakukan setting network pada OS Centos 7, edit file pada lokasi berikut:
+# vi /etc/sysconfig/network-scripts/ifcfg-eth0  Dengan content file sebagai berikut:
+TYPE=&amp;quot;Ethernet&amp;quot; BOOTPROTO=&amp;quot;static&amp;quot; NAME=&amp;quot;eth0&amp;quot; DEVICE=&amp;quot;eth0&amp;quot; ONBOOT=&amp;quot;yes&amp;quot; IPADDR=192.168.0.2 NETMASK=255.255.255.0 GATEWAY=192.168.0.1 DNS1=8.8.8.8 DNS2=8.8.4.4  Untuk interface lain, nama file nya adalah ifcfg-interface. ex: ifcfg-eth1, ifcfg-eth2, dll.</description>
+    </item>
     
     <item>
       <title>Testing beautiful code syntax highlighting</title>

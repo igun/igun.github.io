@@ -5,10 +5,19 @@
     <link>https://igun.github.io/tags/</link>
     <description>Recent content in Tags on Sesat Timur</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Sep 2017 22:50:59 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2017 06:13:48 +0700</lastBuildDate>
     
 	<atom:link href="https://igun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Centos</title>
+      <link>https://igun.github.io/tags/centos/</link>
+      <pubDate>Thu, 28 Dec 2017 06:13:48 +0700</pubDate>
+      
+      <guid>https://igun.github.io/tags/centos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hugo</title>
@@ -29,11 +38,29 @@
     </item>
     
     <item>
+      <title>Linux</title>
+      <link>https://igun.github.io/tags/linux/</link>
+      <pubDate>Thu, 28 Dec 2017 06:13:48 +0700</pubDate>
+      
+      <guid>https://igun.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prism.js</title>
       <link>https://igun.github.io/tags/prism.js/</link>
       <pubDate>Tue, 12 Sep 2017 22:50:59 +0700</pubDate>
       
       <guid>https://igun.github.io/tags/prism.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quickie</title>
+      <link>https://igun.github.io/tags/quickie/</link>
+      <pubDate>Thu, 28 Dec 2017 06:13:48 +0700</pubDate>
+      
+      <guid>https://igun.github.io/tags/quickie/</guid>
       <description></description>
     </item>
     
