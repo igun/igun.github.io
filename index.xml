@@ -5,10 +5,24 @@
     <link>https://igun.github.io/</link>
     <description>Recent content on Sesat Timur</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Dec 2017 06:13:48 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2018 12:55:32 +0700</lastBuildDate>
     
 	<atom:link href="https://igun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mencari File di Linux menggunakan find</title>
+      <link>https://igun.github.io/post/linux-find/</link>
+      <pubDate>Tue, 02 Jan 2018 12:55:32 +0700</pubDate>
+      
+      <guid>https://igun.github.io/post/linux-find/</guid>
+      <description>Mencari file-file di operating system linux (command line) merupakan suatu pekerjaan yang membutuhkan trik khusus, yaitu menggunakan perintah &amp;ldquo;find&amp;rdquo;. Beberapa perintah yang bisa dilakukan dengan find adalah sebagai berikut:
+1 . Mencari berdasar nama file:
+# find -name nama_file  2 . Mencari berdasar ukuran file:
+file berukuran tepat 50 Megabytes
+# find -size 50M  file berukuran kurang dari 100 Megabytes
+# find -size -100M  file berukuran lebih dari 200 Megabytes</description>
+    </item>
     
     <item>
       <title>Setup ifconfig pada centos 7</title>
