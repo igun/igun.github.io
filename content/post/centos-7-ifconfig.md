@@ -8,7 +8,7 @@ tags:
 title: "Setup ifconfig pada centos 7"
 slug: "centos 7 ifconfig"
 date: "2017-12-28T06:13:48+07:00"
-draft: true
+draft: false
 ---
 
 Untuk melakukan setting network pada OS Centos 7, edit file pada lokasi berikut:
